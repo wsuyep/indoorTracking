@@ -1,0 +1,88 @@
+.popup {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0,0,0, 0.5);
+}
+.popup_inner {
+  /*left: 20%;*/
+  /*right: 20%;*/
+  /*top: 20%;*/
+  /*bottom: 20%;*/
+  /*margin: auto;*/
+  background: white;
+}
+
+.popup2 {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0,0,0, 0.5);
+}
+.popup_inner2 {
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  bottom: 25%;
+  margin: auto;
+  background: white;
+}
+
+.popup3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0,0,0, 0.5);
+}
+.popup_inner3 {
+  margin:10px;
+  background: white;
+}
+
+.fields{
+  width: 50%;
+}
+.floatTL{
+  width: 500%;
+  height: 500%;
+  position:absolute;
+  top:25px;
+  left:0px;
+}
+
+.newButton{
+  position:relative;
+  top: 0;
+  right: 0;
+}
+
+.center_buttons{
+  position:absolute;
+  bottom:10px;
+  left: 10px;
+}
+
+.confirm_button{
+  margin-left: 10px;
+}
+
+.warning_msg{
+  color:#9e9e9e;
+  text-align: center;
+}
